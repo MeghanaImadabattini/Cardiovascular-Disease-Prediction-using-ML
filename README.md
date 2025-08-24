@@ -7,8 +7,10 @@ Early results show strong links between heart disease and factors like blood pre
 This work helps us better understand what drives heart disease and provides insights to design preventive strategies that can improve public health.
 
 DATASET:
+
 https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas/data
 
 References:
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527136/ 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454027/
